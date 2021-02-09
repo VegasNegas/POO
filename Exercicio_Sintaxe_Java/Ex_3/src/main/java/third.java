@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class third {
     public static void main(String[] args) {
         int total = 0;
