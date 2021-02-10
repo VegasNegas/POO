@@ -1,5 +1,3 @@
-import javax.sound.midi.SysexMessage;
-
 public class sixth {
     public static void main(String[] args) {
         int temp_1 = 0, temp_2 = 1;
