@@ -7,7 +7,6 @@ public class sixth {
             temp_1 += temp_2;
             System.out.print(temp_2 + " ");
         
-        }while(temp_1 < 100);
-    
+        }while(temp_2 < 90);
     }
 }
